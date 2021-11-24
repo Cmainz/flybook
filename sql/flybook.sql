@@ -1,7 +1,7 @@
 -- phpMyAdmin SQL Dump
 -- version 4.5.4.1deb2ubuntu2
 -- http://www.phpmyadmin.net
---
+--GEH
 -- Vært: localhost
 -- Genereringstid: 24. 04 2018 kl. 12:13:47
 -- Serverversion: 5.7.22-0ubuntu0.16.04.1
